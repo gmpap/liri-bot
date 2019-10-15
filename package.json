@@ -1,0 +1,16 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0",
+    "spotify": "^0.3.0"
+  }
+}
