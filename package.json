@@ -11,6 +11,16 @@
   "dependencies": {
     "dotenv": "^8.1.0",
     "moment": "^2.24.0",
+    "request": "^2.88.0",
     "spotify": "^0.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmpap/liri-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmpap/liri-bot/issues"
+  },
+  "homepage": "https://github.com/gmpap/liri-bot#readme"
 }

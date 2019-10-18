@@ -5,12 +5,12 @@ require("dotenv").config();
 let keys = require('./keys.js');
 
 // Require the node package manager for Spotify, request and moment
-let Spotify = require ('node-spotify-api');
-let request = require ('request');
-let moment = require ('moment');
+let Spotify = require ("node-spotify-api");
+let request = require ("request");
+let moment = require ("moment");
 
 // Save key to a variable 
-let spotify = new Spotify(keys.spotify);
+let spotify = new spotify(keys.spotify);
 
 // Include file system module
 let fs = require ("fs"); 
